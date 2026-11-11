@@ -39,16 +39,6 @@ Em vez de apenas sobrescrever o código a cada atualização, o projeto mantém 
 
 ---
 
-## 🗺️ Linha do Tempo de Versões
-
-| Versão | Foco Principal | Tecnologias | Status |
-| :---: | :--- | :--- | :---: |
-| **v1.0** | Estrutura básica HTML e estilização CSS simples. | HTML5, CSS3 | 🟢 Concluído |
-| **v2.0** | Design responsivo, animações e interatividade via DOM. | HTML5, CSS3, JavaScript ES6+ | 🟢 Concluído |
-| **v3.0** | Componentização, consumo de APIs e gerenciamento de estado. | React, Tailwind CSS, Elden Ring API | 🟡 Em Desenvolvimento |
-| **v4.0** | Performance avançada, renderização híbrida (SSR/SSG) e TypeScript. | Next.js, TypeScript | 📅 Planejado |
-
----
 
 ## 🛠️ Tecnologias Exploradas
 
